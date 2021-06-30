@@ -19,6 +19,6 @@ cd mqtt-client
 yarn
 ```
 ```bash
-node server.j
+node server.js
 ```
 > As many as you want, each one will be a client/user on the chat. Good luck!
